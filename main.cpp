@@ -4,7 +4,7 @@
 #include "lexfunctions.h"
 #include <iomanip>
 
-
+//comment
 using namespace std;
 void initArray();
 void markEntry(int x, int y, int mark);
